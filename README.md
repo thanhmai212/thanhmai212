@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi, I'm Thanh Mai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+%7C+Computer+Science+Student+%7C+Tech+Enthusiast+%E2%9D%A4%EF%B8%8F" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+%7C+Computer+Science+Student+%7C+Tech+Enthusiast+%E2%9D%A4%EF%B8%8F" alt="Front-End Developer | Computer Science Student | Tech Enthusiast ❤️" />
+</a>
 </p>
 
 <br>
