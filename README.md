@@ -31,8 +31,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 
 <div align="center">
-  <a href="https://github.com/0xabdulkhalid/">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="0xabdulkhalid's GitHub Stats" />
+  <a href="https://github.com/thanhmai212/">
+    <img src="https://github-readme-stats.vercel.app/api?username=thanhmai212&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="thanhmai212's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="0xabdulkhalid's Top Languages" />
   </a>
 </div>
